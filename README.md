@@ -5,3 +5,6 @@ nem viccElek
 második változtatás
  yikes
  asd
+ asd
+asdad
+lottó
